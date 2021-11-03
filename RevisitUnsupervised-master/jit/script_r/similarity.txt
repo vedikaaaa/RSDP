@@ -1,0 +1,5 @@
+1.(bugzilla) transactionid	commitdate	ns	nm	nf	entropy	la	ld	lt	fix	ndev	pd	npt	exp	rexp	sexp	bug
+
+2. (columba) transactionid	commitdate	ns	nm	nf	entropy	la	ld	lt	fix	ndev	pd	npt	exp	rexp	sexp	bug
+
+3. (jdt)

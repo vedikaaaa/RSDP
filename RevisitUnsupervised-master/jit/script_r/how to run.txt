@@ -1,0 +1,3 @@
+setwd("C:/Users/vedik/OneDrive/Documents/ResearchProject/Main/RevisitUnsupervised-master/jit/script_r")
+source("exeMain.r")
+ 
